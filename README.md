@@ -1,6 +1,6 @@
 # learining
 for learning github
  
- ##keep going
+ ## keep going
 
-###nothing is important to stop your going for
+### nothing is important to stop your going for
